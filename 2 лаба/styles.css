@@ -1,0 +1,60 @@
+body {
+  background: rgb(224, 255, 100);
+}
+h1 {
+  font-size: 130%;
+  color: rgb(255, 0, 162);
+}
+h2 {
+  font-size: 130%;
+  color: rgb(255, 153, 0);
+}
+p {
+  font-size: 18px;
+  font-family: monospace;
+  color: rgb(48, 48, 48);
+  text-indent: 35px;
+  text-align: justify;
+}
+
+a {
+  font-size: 18px;
+  font-family: cursive;
+  text-decoration: none;
+}
+
+img {
+  width: 400px;
+  padding-top: 0px;
+  margin-top: 70px;
+}
+
+li {
+  color: rgb(48, 48, 48);
+  font-size: 18px;
+}
+
+.content-left {
+  border-radius: 30px;
+  background: blue;
+  padding: 20px;
+  margin-right: 30px;
+}
+
+.content-right {
+  border-radius: 30px;
+  background: red;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.content {
+  background: green;
+  display: flex;
+  margin: 10px;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+}
